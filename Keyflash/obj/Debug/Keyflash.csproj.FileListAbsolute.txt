@@ -1,0 +1,9 @@
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\bin\Debug\Keyflash.exe.config
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\bin\Debug\Keyflash.exe
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\bin\Debug\Keyflash.pdb
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.csprojResolveAssemblyReference.cache
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.MainForm.resources
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.Properties.Resources.resources
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.csproj.GenerateResource.Cache
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.exe
+c:\users\slava\documents\visual studio 2013\Projects\Keyflash\Keyflash\obj\Debug\Keyflash.pdb

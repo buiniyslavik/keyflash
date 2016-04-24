@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Иконка (исходник).svg"
+   inkscape:export-filename="C:\Users\slava\Documents\Project Keyflash\Программная часть\Keyflash\Иконка (исходник).png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-139.28571"
+     inkscape:cy="862.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#b3b3b3"
+       id="path3336"
+       cx="371.42859"
+       cy="509.5051"
+       r="328.57144" />
+    <path
+       style="fill:#cccccc"
+       d="M 305,830.15955 C 179.45551,802.92615 83.440926,709.80643 53.47472,586.21786 c -26.980455,-111.27454 5.547268,-226.371 86.99289,-307.81662 46.75391,-46.75391 98.77799,-74.93712 166.42489,-90.15801 25.88187,-5.82355 95.7195,-6.5929 122.26699,-1.34693 103.7088,20.49362 190.3086,85.96856 236.61311,178.89448 11.95977,24.00138 25.2366,67.09133 29.33626,95.21084 5.28163,36.22653 2.21128,95.53427 -6.70723,129.55927 -15.96289,60.89994 -43.28997,107.73194 -88.91146,152.37274 -43.51734,42.58192 -89.78668,68.81255 -149.10183,84.52763 C 416.63214,836.40469 340.31891,837.821 305,830.15955 Z"
+       id="path3340"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#999999"
+       id="path3342"
+       cx="372.85715"
+       cy="508.07651"
+       r="301.42856" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3344"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:System;font-style:normal;font-weight:normal;font-size:90px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:System;font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion3346"><rect
+           id="rect3348"
+           width="357.14285"
+           height="348.57144"
+           x="208.57143"
+           y="329.50507"
+           style="text-anchor:middle;text-align:center;-inkscape-font-specification:System;font-family:System;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:90px;" /></flowRegion><flowPara
+         id="flowPara3350"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:58.30317307px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="374.76794"
+       y="460.06998"
+       id="text3352"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="374.76794"
+         y="460.06998"
+         id="tspan3356"
+         style="font-size:131.18214417px;text-align:center;text-anchor:middle">DS1990</tspan><tspan
+         sodipodi:role="line"
+         x="374.76794"
+         y="624.04761"
+         style="font-size:65.59107208px;text-align:center;text-anchor:middle"
+         id="tspan3358" /></text>
+    <path
+       style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:1.17612064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.58489,684.09543 199.98884,-75.32127 -43.47582,-51.94571 343.45911,-41.55656 -191.29369,72.72398 56.51861,77.91857 z"
+       id="path3368"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
